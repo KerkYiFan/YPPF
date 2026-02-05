@@ -33,3 +33,4 @@ django_apscheduler
 # 可选应用依赖
 pymssql
 cryptography
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
